@@ -1,6 +1,6 @@
 # This is the v1.0 of music player (Spotify Clone)
 
-# Link for live project -
+# Link for live project - https://shuklaabhishek99.github.io/Spotify-Clone
 
 # Upcoming Features/Updates
 
